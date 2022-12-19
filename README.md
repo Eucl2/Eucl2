@@ -1,5 +1,5 @@
 ### Hi there, I'm André 👋
-
+theme: jekyll-theme-cayman
 <!--
 **Eucl2/Eucl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
