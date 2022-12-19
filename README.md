@@ -13,8 +13,45 @@
 
  ✈️. Traveling  
  📚. Reading  
- 💻. Programming
- 🍜. Eating
- 📷. Photography
+ 💻. Programming  
+ 🍜. Eating  
+ 📷. Photography  
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+1st year - 1st semester | Exercises | Projects
+------------ | ------------- | -------------
+👉 Programação Funcional | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
+1st year - 2nd semester | Exercises | Projects
+------------ | ------------- | -------------
+👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
+2nd year - 1st semester | Exercises | Projects
+------------ | ------------- | -------------
+👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
+2nd year - 2nd semester | Exercises | Projects
+------------ | ------------- | -------------
+👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
+3rd year - 1st semester | Exercises | Projects
+------------ | ------------- | -------------
+👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
+3rd year - 2nd semester | Exercises | Projects
+------------ | ------------- | -------------
+👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+
+---
+<p align="center"> André </p>
