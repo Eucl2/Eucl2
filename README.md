@@ -20,14 +20,15 @@
 1st year - 1st semester | Exercises | Projects
 ------------ | ------------- | -------------
 👉 Programação Funcional | ✅ Content cell 2 | ⭕️ Content cell 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Ótica Aplicada para Fotografia Digital | ✅ Content column 2 | ⭕️ Content column 3
+👉 Cálculo | ✅ Content column 2 | ⭕️ Content column 3
 
 1st year - 2nd semester | Exercises | Projects
 ------------ | ------------- | -------------
-👉 Content cell 1 | ✅ Content cell 2 | ⭕️ Content cell 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
-👉 Content column 1 | ✅ Content column 2 | ⭕️ Content column 3
+👉 Análise | ✅ Content cell 2 | ⭕️ Content cell 3
+👉 Geometria | ✅ Content column 2 | ⭕️ Content column 3
+👉 Laboratório de Algoritmia I | ✅ Content column 2 | ⭕️ Content column 3
+👉 Programação Imperativa | ✅ Content column 2 | ⭕️ Content column 3
 
 2nd year - 1st semester | Exercises | Projects
 ------------ | ------------- | -------------
