@@ -51,7 +51,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   **Project 1:** Description of the project [Link to repository]
 
 - #### [Concurrent Programming]
-  **Project 1:** Description of the project [Link to repository]
+  [**Gravity Game**](https://github.com/Eucl2/Concurrent-Programming)
 
 - #### [Concurrency and Interaction]
   Quantum Computing Project - [Solving satisfiability problems using Grover’s Algorithm](https://github.com/Eucl2/Concurrency-and-Interaction)
