@@ -17,6 +17,8 @@ I'm a passionate software developer currently studying at [University Name]. I l
 </p>
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucl2&exclude_repo=Concurrency-and-Interaction&layout=compact&theme=dracula&hide_border=true)
+---
 
 ## About Me
 
@@ -36,10 +38,10 @@ I'm a passionate software developer currently studying at [University Name]. I l
   [**Library Database Management - SQL and NoSql**](https://github.com/Eucl2/Databases)
 
 - #### [Computational Logic]
-  **Project 1:** Description of the project [Link to repository]
+  TODO
 
 - #### [Compilers and Language Processing]
-  **Project 1:** Description of the project [Link to repository]
+  TODO
   
 - #### [Object Oriented Programming]
   [**Activity and Training Plan Management**](https://github.com/Eucl2/POO-2024)
@@ -48,7 +50,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   [**Task Orchestrator**](https://github.com/Eucl2/Operating-Systems)
 
 - #### [Computer Graphics]
-  **Project 1:** Description of the project [Link to repository]
+  TODO
 
 - #### [Concurrent Programming]
   [**Gravity Game**](https://github.com/Eucl2/Concurrent-Programming)
@@ -57,7 +59,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   Quantum Computing Project - [Solving satisfiability problems using Grover’s Algorithm](https://github.com/Eucl2/Concurrency-and-Interaction)
 
 - #### [Final Project]
-  **Project 1:** Description of the project [Link to repository]
+  TODO
 
 ### Personal Projects
 
@@ -65,12 +67,6 @@ I'm a passionate software developer currently studying at [University Name]. I l
   - **Description:** In progress...
   - **Technologies Used:** Django, Vue3, MySql.
   - **Repository:** [Private]
-
----
-
-## GitHub Stats
-
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eucl2)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
