@@ -42,7 +42,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   **Project 1:** Description of the project [Link to repository]
   
 - #### [Object Oriented Programming]
-  **Project 1:** Description of the project [Link to repository]
+  [**Activity and Training Plan Management**](https://github.com/Eucl2/POO-2024)
   
 - #### [Operating Systems]
   [**Task Orchestrator**](https://github.com/Eucl2/Operating-Systems)
