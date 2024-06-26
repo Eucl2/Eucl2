@@ -70,7 +70,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eucl2)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
