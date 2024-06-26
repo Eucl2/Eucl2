@@ -33,7 +33,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
 ### University Projects
 
 - #### [Databases]
-  **Project 1:** Description of the project [Link to repository]
+  [**Databases Project**](https://github.com/Eucl2/Databases)
 
 - #### [Computational Logic]
   **Project 1:** Description of the project [Link to repository]
@@ -54,7 +54,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   **Project 1:** Description of the project [Link to repository]
 
 - #### [Concurrency and Interaction]
-  **Quantum Computing Project -** [Solving satisfiability problems using Grover’s Algorithm](https://github.com/Eucl2/Concurrency-and-Interaction)
+  Quantum Computing Project - [Solving satisfiability problems using Grover’s Algorithm](https://github.com/Eucl2/Concurrency-and-Interaction)
 
 - #### [Final Project]
   **Project 1:** Description of the project [Link to repository]
@@ -63,8 +63,8 @@ I'm a passionate software developer currently studying at [University Name]. I l
 
 - #### Condor
   - **Description:** In progress...
-  - **Technologies Used:** Django.
-  - **Repository:** [Unavailable]
+  - **Technologies Used:** Django, Vue3, MySql.
+  - **Repository:** [Private]
 
 ---
 
