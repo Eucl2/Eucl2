@@ -33,7 +33,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
 ### University Projects
 
 - #### [Databases]
-  [**Databases Project**](https://github.com/Eucl2/Databases)
+  [**Library Database Management - SQL and NoSql**](https://github.com/Eucl2/Databases)
 
 - #### [Computational Logic]
   **Project 1:** Description of the project [Link to repository]
