@@ -37,7 +37,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   [**Library Database Management - SQL and NoSql**](https://github.com/Eucl2/Databases)
 
 - #### [Computational Logic]
-  TODO
+  [**Computational Logic Projects**](https://github.com/Eucl2/Computational-Logic)
 
 - #### [Compilers and Language Processing]
   TODO
