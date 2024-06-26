@@ -16,7 +16,6 @@ I'm a passionate software developer currently studying at [University Name]. I l
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucl2&exclude_repo=Concurrency-and-Interaction&layout=compact&theme=dracula&hide_border=true)
 ---
 
@@ -50,7 +49,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   [**Task Orchestrator**](https://github.com/Eucl2/Operating-Systems)
 
 - #### [Computer Graphics]
-  TODO
+  [**Solar System**](https://github.com/Eucl2/Computer-Graphics)
 
 - #### [Concurrent Programming]
   [**Gravity Game**](https://github.com/Eucl2/Concurrent-Programming)
