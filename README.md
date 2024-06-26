@@ -45,7 +45,7 @@ I'm a passionate software developer currently studying at [University Name]. I l
   **Project 1:** Description of the project [Link to repository]
   
 - #### [Operating Systems]
-  **Project 1:** Description of the project [Link to repository]
+  [**Task Orchestrator**](https://github.com/Eucl2/Operating-Systems)
 
 - #### [Computer Graphics]
   **Project 1:** Description of the project [Link to repository]
