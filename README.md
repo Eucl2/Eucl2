@@ -21,11 +21,11 @@ I'm a passionate software developer currently studying at **Universidade do Minh
 
 ## About Me
 
-✈️. Traveling  
-📚. Reading  
-💻. Programming  
-🍜. Eating  
-📷. Photography  
+✈️ Traveling  
+📚 Reading  
+💻 Programming  
+🍜 Eating  
+📷 Photography  
 
 ---
 
