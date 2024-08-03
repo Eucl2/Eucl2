@@ -1,6 +1,6 @@
 ### Hi there, I'm André 👋
 
-I'm a passionate software developer currently studying at **Universidade do Minho**. I love exploring new technologies and working on innovative projects.
+I'm a passionate software developer who has a Bachelor's Degree in Computer Science from Universidade do Minho.
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
