@@ -32,7 +32,7 @@ I'm a passionate software developer who has a Bachelor's Degree in Computer Scie
 ## Projects 📂
 
 ### University Projects
-
+### Bachelor Degree in Computer Science
 - #### [Databases]
   [**Library Database Management - SQL and NoSql**](https://github.com/Eucl2/Databases)
 
