@@ -32,6 +32,12 @@ I'm a passionate software developer with a bachelor's degree in computer science
 
 ## Projects 📂
 
+### Personal Projects
+
+- #### Condor (in progress...)
+
+- #### [**WebServerHacker**](https://github.com/Eucl2/WebServerHacker.git)
+
 ### University Projects
 ### Bachelor's Degree in Computer Science
 - #### [Databases]
@@ -61,14 +67,6 @@ I'm a passionate software developer with a bachelor's degree in computer science
 - #### [Final Project]
   TODO
 
-### Personal Projects
-
-- #### Condor
-  - **Description:** In progress...
-  - **Technologies Used:** Django, Vue3, MySql.
-  - **Repository:** [Private]
-
-- ### WebServerHacker [**WebServerHacker**](https://github.com/Eucl2/WebServerHacker.git)
 ---
 
 ## Contact Me
