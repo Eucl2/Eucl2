@@ -16,8 +16,8 @@ I'm a passionate software developer with a bachelor's degree in computer science
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucl2&exclude_repo=Computer-Graphics&Computational-Logic
-&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucl2&exclude_repo=Computer-Graphics,Computational-Logic&layout=compact&theme=dracula&hide_border=true)
+
 ---
 
 ## About Me
