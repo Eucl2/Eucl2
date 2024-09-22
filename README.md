@@ -1,6 +1,6 @@
 ### Hi there, I'm André 👋
 
-I'm a passionate software developer who has a Bachelor's Degree in Computer Science from Universidade do Minho.
+I'm a passionate software developer with a bachelor's degree in computer science from Universidade do Minho (Braga, Portugal). Currently pursuing a master's degree in Cybersecurity at Aalborg University (Copenhagen, Denmark)
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -16,7 +16,7 @@ I'm a passionate software developer who has a Bachelor's Degree in Computer Scie
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucl2&exclude_repo=Concurrency-and-Interaction&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucl2&layout=compact&theme=dracula&hide_border=true)
 ---
 
 ## About Me
