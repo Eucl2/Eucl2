@@ -70,8 +70,6 @@ I'm a passionate software developer with a bachelor's degree in computer science
 ---
 
 ## Contact Me
-
-- LinkedIn: [André Barbosa](www.linkedin.com/in/andré-oliveira-barbosa)
 - Email: 2001andrebarbosa@gmail.com
 
 <p align="center"> André </p>
