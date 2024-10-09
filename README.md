@@ -47,7 +47,7 @@ I'm a passionate software developer with a bachelor's degree in computer science
   [**Computational Logic Projects**](https://github.com/Eucl2/Computational-Logic)
 
 - #### [Compilers and Language Processing]
-  TODO
+  TO ADD
   
 - #### [Object Oriented Programming]
   [**Activity and Training Plan Management**](https://github.com/Eucl2/POO-2024)
@@ -65,7 +65,7 @@ I'm a passionate software developer with a bachelor's degree in computer science
   Quantum Computing Project - [Solving satisfiability problems using Grover’s Algorithm](https://github.com/Eucl2/Concurrency-and-Interaction)
 
 - #### [Final Project]
-  TODO
+  TO ADD
 
 ---
 
