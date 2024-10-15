@@ -34,7 +34,7 @@ I'm a passionate software developer with a bachelor's degree in computer science
 
 ### Personal Projects
 
-- #### Condor (in progress...)
+- #### Condor (Private - in progress...)
 
 - #### [**WebPageHacker**](https://github.com/Eucl2/WebPageHacker.git)
 
