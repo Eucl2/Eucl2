@@ -46,9 +46,6 @@ I'm a passionate software developer with a bachelor's degree in computer science
 - #### [Computational Logic]
   [**Computational Logic Projects**](https://github.com/Eucl2/Computational-Logic)
 
-- #### [Compilers and Language Processing]
-  TO ADD
-  
 - #### [Object Oriented Programming]
   [**Activity and Training Plan Management**](https://github.com/Eucl2/POO-2024)
   
