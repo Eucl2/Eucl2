@@ -34,9 +34,8 @@ I'm a passionate software developer with a bachelor's degree in computer science
 
 ### Personal Projects
 
-- #### Condor (Private - in progress...)
-
-- #### [**WebPageHacker**](https://github.com/Eucl2/WebPageHacker.git)
+- #### [**CrackMeter**](https://github.com/Eucl2/CrackMeter.git)
+A Chrome Extension that shows how long it would take a hacker to crack your password as a pop up, every time you create one.
 
 ### University Projects
 ### Bachelor's Degree in Computer Science
