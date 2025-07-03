@@ -1,9 +1,10 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2praHB0ajNvNnlrb2h3enp0amxscmNmN2R1dXpneHRlb3J3bjFheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" align="right" width="300" />
 
+
 # André Barbosa
 
 
-**MSc Cybersecurity student** in Copenhagen 🇩🇰  
+**MSc Cybersecurity student** at Aalborg University in Copenhagen 🇩🇰  
 BSc in Computer Science from Universidade do Minho 🇵🇹  
 
 ---
@@ -37,15 +38,20 @@ BSc in Computer Science from Universidade do Minho 🇵🇹
 
 ---
 
-## Selected Projects
+## Personal Projects
  
-- [**CrackMeter**](https://github.com/Eucl2/CrackMeter) – Chrome extension that estimates password crack time as you type  
+- [**CrackMeter**](https://github.com/Eucl2/CrackMeter) – Chrome extension that estimates password crack time as you type
+
+---
+
+## MSc Academic Projects
+
 - [**VANET Attacks Simulation**](#) – Attacks and Defenses implemented in vehicular ad hoc networks using SUMO *(to add)*  
 - [**Differential Privacy in ML**](#) – Membership Inference & Model Inversion on DL models *(to add)*
 
 ---
 
-## Other Selected Academic Projects
+## Other Academic Projects
 
 - [**Library Database Management (Databases)**](https://github.com/Eucl2/Databases)  
 - [**Training Plan Manager (Object Oriented Programming)**](https://github.com/Eucl2/POO-2024)  
